@@ -41,5 +41,18 @@ td {
     color: chocolate;
 }
 
+form {
+    margin: auto;
+    text-align: center;
+    background-color: wheat;
+    padding-bottom: 2rem;
+    font-family: miletra;
+    width: 50%;
+}
 
-
+label {
+    display: block;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
