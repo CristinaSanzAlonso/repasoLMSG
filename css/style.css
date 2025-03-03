@@ -1,0 +1,31 @@
+@font-face {
+    font-family: miletra;
+    src: url(../MontserratSigmar/Montserrat/static/Montserrat-Regular.ttf)
+}
+
+:root {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: miletra;
+    text-align: center;
+    color:yellow;
+    font-size: 3rem;
+}
+
+table {
+    margin:auto;
+    border-color: black;
+    border-style: solid;
+}
+
+
+td {
+
+    border-style: solid 5px;
+
+}
+
