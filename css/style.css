@@ -9,6 +9,13 @@
     padding: 0;
 }
 
+body{
+    background-image: url(../img/fondowebjpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 h1 {
     font-family: miletra;
     text-align: center;
@@ -18,14 +25,21 @@ h1 {
 
 table {
     margin:auto;
-    border-color: black;
+    border-color: white;
     border-style: solid;
 }
 
 
 td {
-
-    border-style: solid 5px;
-
+    background-color: beige;
+    text-align: center;
 }
+
+.nombre{
+    font-family: miletra;
+    font-weight: bold;
+    color: chocolate;
+}
+
+
 
